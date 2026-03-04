@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Mary Poppins",
+    "email": "nanny@gmail.com",
+    "phone": "+65 9123 4567"
+  },
+  {
+    "id": 2,
+    "name": "Bruce Wayne",
+    "email": "iambatman@outlook.com",
+    "phone": "+65 8234 5678"
+  },
+  {
+    "id": 3,
+    "name": "Leon Kennedy",
+    "email": "ikillzombies@yahoo.com",
+    "phone": "+65 9345 6789"
+  }
+]
